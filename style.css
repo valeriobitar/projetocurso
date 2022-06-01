@@ -1,0 +1,105 @@
+.nav-item .nav-link{
+    color: #242f51;
+}
+#btn-menu{
+    background-color: #2500f9;
+    color:#fff;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    
+    
+}
+#titulo-menu{
+    padding-top: 200px;
+
+}
+#titulo-menu h1{
+    font-size: 50px;
+    color: #242f51;
+    font-weight: bold;
+
+}
+#titulo-menu a{
+    text-decoration: none;
+    color: #2500f9;
+    font-weight: bold;
+}
+#titulo-menu p{
+    color: #616368;
+}
+#backgroud-torres{
+    background-image: url(./img/Layer\ 5.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+}
+#backgroud-circulos{
+    background-image: url(./img/Vector\ Smart\ Object2.png);
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+#segunda-imagem{ 
+    padding-top: 110px;
+
+}
+#segundo-texto{
+    padding-top: 200px;
+}
+#segundo-texto h1{
+    font-size: 60px;
+    color: #242f51;
+    font-weight: bold;
+}
+#segundo-texto p{
+    color: #242f51;
+    font-size: 25px; 
+}
+#segundo-btn{
+background-color: #2500f9;
+color:#fff;
+border-radius: 25px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+border: none;
+}
+#terceiro-texto{
+    color: #242f51;
+
+}
+#terceiro-texto h1{
+    font-size: 45px;
+    padding-top: 150px;
+    font-weight: bold;
+}
+#terceiro-texto p{
+    font-size: 20px;
+
+}
+#colunas {
+    color: #242f51;
+}
+#colunas h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+#colunas p{
+    font-size: 20px;
+    color: #242f51 ;
+}
+#texto-4{
+    padding-top: 180px;
+    color: #242f51;
+}
+#texto-4 h1{
+    font-weight: bold;
+}
+#texto-4 p{
+    font-size: 20px;
+}
